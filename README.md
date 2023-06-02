@@ -1,6 +1,6 @@
 
 # HFT_Practice_101
-A high frequency trading firm made in Rust
+A high frequency trading firm(Simulation) made in Rust
 
 
 ## Creating a low-latency trading system in Rust involves several steps. A high-level approach and suggestion for resources to help you get started. Here's how you can approach each step:
